@@ -1,5 +1,5 @@
 -- tweak for your repo
-local installRepo = "andreasthuis/cc-create"
+local installRepo = "andreasthuis/cc-create/refs/heads/"
 local ref = "" -- leave blank for master
 local repoPath = "" -- leave blank for /src
 local minified = nil -- wheter or not to force your install to be minified
